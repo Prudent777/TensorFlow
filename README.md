@@ -35,3 +35,5 @@ Voici le lien vers la documentation officielle de TensorFlow :
 Sur le site web de TensorFlow, vous trouverez des guides, des tutoriels, des exemples de code, des vidéos et d'autres ressources pour vous aider à comprendre et à utiliser TensorFlow dans vos projets d'apprentissage automatique. Vous pouvez également consulter la section "API" pour obtenir des informations détaillées sur les différentes classes, méthodes et fonctionnalités disponibles dans TensorFlow.
 
 Il est recommandé d'explorer la documentation officielle de TensorFlow pour obtenir des informations précises et à jour sur l'utilisation de la bibliothèque, car elle fournit des informations complètes et fiables directement auprès de l'équipe de développement de TensorFlow.
+
+Merci 
